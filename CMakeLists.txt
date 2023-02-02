@@ -23,7 +23,7 @@ add_executable(ant.out main.cc)
 target_link_libraries(ant.out PUBLIC AntLib CommonLib)
 
 add_executable(gauss.out main.cc)
-target_link_libraries(gauss.out PUBLIC AntLib CommonLib)
+target_link_libraries(gauss.out PUBLIC GaussLib CommonLib)
 
 add_executable(winograd.out main.cc)
-target_link_libraries(winograd.out PUBLIC AntLib CommonLib)
+target_link_libraries(winograd.out PUBLIC WinogradLib CommonLib)
