@@ -1,5 +1,5 @@
-#ifndef A3_SRC_ANT_PROGRAM_H_
-#define A3_SRC_ANT_PROGRAM_H_
+#ifndef ANT_PROGRAM_H_
+#define ANT_PROGRAM_H_
 
 namespace s21 {
 
@@ -10,4 +10,4 @@ class Program {
 
 }  // namespace s21
 
-#endif  // A3_SRC_ANT_PROGRAM_H_
+#endif  // ANT_PROGRAM_H_

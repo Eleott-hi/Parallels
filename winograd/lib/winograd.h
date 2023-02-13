@@ -1,5 +1,5 @@
-#ifndef A3_SRC_WINOGRAD_LIB_WINOGRAD_H_
-#define A3_SRC_WINOGRAD_LIB_WINOGRAD_H_
+#ifndef WINOGRAD_LIB_WINOGRAD_H_
+#define WINOGRAD_LIB_WINOGRAD_H_
 
 #include "matrix.h"
 #include "thread_pool.h"
@@ -28,4 +28,4 @@ class Winograd {
 
 }  // namespace s21
 
-#endif  // A3_SRC_WINOGRAD_LIB_WINOGRAD_H_
+#endif  // WINOGRAD_LIB_WINOGRAD_H_

@@ -1,5 +1,5 @@
-#ifndef A3_SRC_COMMON_TIMER_H_
-#define A3_SRC_COMMON_TIMER_H_
+#ifndef COMMON_TIMER_H_
+#define COMMON_TIMER_H_
 
 #include <chrono>
 
@@ -28,4 +28,4 @@ class Timer {
 
 }  // namespace s21
 
-#endif  // A3_SRC_COMMON_TIMER_H_
+#endif  // COMMON_TIMER_H_

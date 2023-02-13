@@ -1,5 +1,5 @@
-#ifndef A3_SRC_GAUSS_PROGRAM_H_
-#define A3_SRC_GAUSS_PROGRAM_H_
+#ifndef GAUSS_PROGRAM_H_
+#define GAUSS_PROGRAM_H_
 
 namespace s21 {
 

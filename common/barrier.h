@@ -1,5 +1,5 @@
-#ifndef A3_SRC_COMMON_BARRIER_H_
-#define A3_SRC_COMMON_BARRIER_H_
+#ifndef COMMON_BARRIER_H_
+#define COMMON_BARRIER_H_
 
 #include <condition_variable>
 #include <mutex>
@@ -28,4 +28,4 @@ class Barrier {
 
 }  // namespace s21
 
-#endif  // A3_SRC_COMMON_BARRIER_H_
+#endif  // COMMON_BARRIER_H_

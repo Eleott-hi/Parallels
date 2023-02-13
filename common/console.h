@@ -1,5 +1,5 @@
-#ifndef A3_SRC_COMMON_CONSOLE_H_
-#define A3_SRC_COMMON_CONSOLE_H_
+#ifndef COMMON_CONSOLE_H_
+#define COMMON_CONSOLE_H_
 
 #include <iostream>
 #include <limits>
@@ -47,4 +47,4 @@ class Console {
 
 }  // namespace s21
 
-#endif  // A3_SRC_COMMON_CONSOLE_H_
+#endif  // COMMON_CONSOLE_H_

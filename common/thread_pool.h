@@ -1,5 +1,5 @@
-#ifndef A3_SRC_COMMON_THREAD_POOL_H_
-#define A3_SRC_COMMON_THREAD_POOL_H_
+#ifndef COMMON_THREAD_POOL_H_
+#define COMMON_THREAD_POOL_H_
 
 #include <atomic>
 #include <condition_variable>
@@ -54,4 +54,4 @@ class ThreadPool {
 
 }  // namespace s21
 
-#endif  // A3_SRC_COMMON_THREAD_POOL_H_
+#endif  // COMMON_THREAD_POOL_H_

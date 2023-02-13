@@ -1,5 +1,5 @@
-#ifndef A3_SRC_WINOGRAD_PROGRAM_H_
-#define A3_SRC_WINOGRAD_PROGRAM_H_
+#ifndef WINOGRAD_PROGRAM_H_
+#define WINOGRAD_PROGRAM_H_
 
 #include <chrono>  // std::chrono
 

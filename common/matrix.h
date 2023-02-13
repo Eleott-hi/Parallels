@@ -1,5 +1,5 @@
-#ifndef A3_SRC_COMMON_MATRIX_H_
-#define A3_SRC_COMMON_MATRIX_H_
+#ifndef COMMON_MATRIX_H_
+#define COMMON_MATRIX_H_
 
 #include <random>
 
@@ -40,4 +40,4 @@ class Matrix {
 
 }  // namespace s21
 
-#endif  // A3_SRC_COMMON_MATRIX_H_
+#endif  // COMMON_MATRIX_H_

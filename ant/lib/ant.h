@@ -1,5 +1,5 @@
-#ifndef A3_SRC_ANT_LIB_ANT_H_
-#define A3_SRC_ANT_LIB_ANT_H_
+#ifndef ANT_LIB_ANT_H_
+#define ANT_LIB_ANT_H_
 
 #include <vector>
 
@@ -50,4 +50,4 @@ class Ant {
 
 }  // namespace s21
 
-#endif  // A3_SRC_ANT_LIB_ANT_H_
+#endif  // ANT_LIB_ANT_H_
