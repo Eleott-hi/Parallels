@@ -32,7 +32,7 @@ Enter project directory in the terminal and input `make`. It'll start project bu
 Matrix  rows:
 > 
 ```
-If you see the output below - everything is correct and the program works just fine.
+If you see the output above - everything is correct and the program works just fine.
 
 ## Chapter II
 
